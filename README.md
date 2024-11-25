@@ -10,29 +10,38 @@
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
-
-<strong>Welcome to my GitHub profile.</strong>
-
 </pre>
-<pre>
-~ $ <strong>cat note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
-2. I use sourcehut (primarily) to host my repositories.
-   Some of them has github mirrors.
 
-~ $ <strong>finger hedy</strong>
-Login: hedy                             Name: Hedy Li
+<!--
+  WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
+  Please think twice before BLINDLY COPYING my profile readme.
+  Design your own that suit your needs and personality! Or well,
+  at least remember to change the name, project, shell, note.txt
+  etc!
+-->
+
+<pre>
+ ~> <strong>cat note.txt</strong>
+ If I'm not responding to any of your PRs or issues,
+ feel free to remind me via <a href="mailto:hedy.dev+gh@protonmail.com">email</a>.
+ 
+ ~> <strong>ls links</strong>
+ Fediverse:      <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
+ Blog:           <a href="https://home.hedy.dev/">home.hedy.dev</a>
+ Gemini capsule: <a href="gemini://gmi.hedy.dev/">gemini://gmi.hedy.dev</a>
+
+ ~> <strong>finger hedy</strong>
+Login: hedy                             Name: hedy
 Directory: /home/hedy                   Shell: /usr/bin/fish
 Project:
-  - Optimizing my <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
-  - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
-  - Drafting (b|gem|ph|sh)log posts
-  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
+  - <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
+  - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
+  - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language
 Plan:
-  learning \o/
+  Learning \o/
 </pre>
-
 
 [**octo ring**](https://octo-ring.com/)
 [[prev](https://octo-ring.com/p/hedyhli/prev)]  [[random](https://octo-ring.com/p/hedyhli/random)]  [[next](https://octo-ring.com/p/hedyhli/next)]
+
+<!-- is my profile readme not mobile-friendly? I'd love to improve. let me know your suggestions -->
